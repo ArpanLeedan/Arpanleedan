@@ -44,6 +44,7 @@
 <h3 align="left">Technologies:</h3>
 <p align="left">
 <ul>
+<li>Python</li>
 <li>MySQL</li>
 <li>Google Earth Engine</li>
 <li>MODIS datasets</li>
