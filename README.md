@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arpan15.basu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://7cecc7bb-a13c-4603-8771-16339f5c1d89.filesusr.com/ugd/7dbf2f_4cae153b45f94f1e80262620accdfb6f.pdf))
+- 📄 Know about my experiences [Resume](https://7cecc7bb-a13c-4603-8771-16339f5c1d89.filesusr.com/ugd/7dbf2f_4cae153b45f94f1e80262620accdfb6f.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
